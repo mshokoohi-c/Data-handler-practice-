@@ -1,6 +1,8 @@
 from Reader import load_csv
 
 
-load_csv('ampledata.csv')
+
+
+load_csv('sampledata.csv')
 
 
