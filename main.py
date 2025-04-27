@@ -1,6 +1,4 @@
-from Interpretcsv import load_csv
-
-
+from Reader import load_csv
 
 
 load_csv('ampledata.csv')
